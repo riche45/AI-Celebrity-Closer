@@ -80,6 +80,10 @@ server/
 
 ## Features Demo
 
+| Mobile View | Desktop View |
+| :---: | :---: |
+| <img src="public/img/screenshot-mobile.png" alt="Mobile" width="300"/> | <img src="public/img/screenshot-desktop.png" alt="Desktop" width="600"/> |
+
 1. **Welcome Message**: Enthusiastic greeting in celebrity voice
 2. **Product Inquiry**: Ask about hoodies, vinyl, accessories
 3. **Smart Recommendations**: AI suggests relevant products
